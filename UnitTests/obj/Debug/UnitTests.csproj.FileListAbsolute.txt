@@ -7,3 +7,12 @@ c:\users\alexander guan\documents\visual studio 2013\Projects\HPDDInsertDelivery
 c:\users\alexander guan\documents\visual studio 2013\Projects\HPDDInsertDeliverySupplierFileParser\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
 c:\users\alexander guan\documents\visual studio 2013\Projects\HPDDInsertDeliverySupplierFileParser\UnitTests\obj\Debug\UnitTests.dll
 c:\users\alexander guan\documents\visual studio 2013\Projects\HPDDInsertDeliverySupplierFileParser\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\strategydev\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\strategydev\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\strategydev\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests\bin\Debug\HPDDHelper.dll
+C:\Users\strategydev\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests\bin\Debug\HPDDInsertDeliverySupplierFileParser.exe
+C:\Users\strategydev\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests\bin\Debug\HPDDHelper.pdb
+C:\Users\strategydev\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests\bin\Debug\HPDDInsertDeliverySupplierFileParser.pdb
+C:\Users\strategydev\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\strategydev\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\strategydev\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests\obj\Debug\UnitTests.pdb
