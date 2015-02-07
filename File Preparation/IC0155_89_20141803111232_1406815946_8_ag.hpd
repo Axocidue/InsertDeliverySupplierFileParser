@@ -1,0 +1,29 @@
+IN^^BGH2131321/10       ^^170026         ^^20140731  ^^2131321             ^^89        ^^1276-8142           ^^2         ^^HONAMI                        ^^Black          ^^C6943                         ^^2     ^^          
+02^^BGHB5+00048Z        ^^2131321             ^^          
+03^^BGHB5M00517S        ^^BGHB5+00048Z        ^^          
+04^^ZH8002T88Q          ^^20131203  ^^1278-0145                     ^^2         ^^1269-5420                     ^^15.0.A.1.31           ^^6         ^^1276-8142                     ^^2         ^^1272-4144                     ^^5         ^^1282-1413                     ^^1              ^^BGHB5M00517S        ^^          
+51^^44D4E0972F39                  ^^IEEE                          ^^ZH8002T88Q          
+51^^44D4E0972F3A                  ^^MAC                           ^^ZH8002T88Q          
+51^^356605056370113               ^^IMEI3                         ^^ZH8002T88Q          
+52^^SECSHPDD_0:B43BB7A6FAD5F2FAFA0BBF15EC962CB0042444942827FE21DD81A1B8D06BDE3704ED6ED78C2CC501DDBAC75A0B928204EEF165D81C0EDED9A28911C709710AD5509B78594C62B60268667AB8984448389ABC936E5509CE0E6F29031A165C2A1B0C3F235C91C204C3CF6EC59468201589E8B629D3859E48BC44C5AECF5B16768CF2D0167BC4C1DB833A3C3754CCA8F290B9E11BE76F46ED742DBB49F2255605AD6F421B0BA616D576341F5B11038629673E032C2B2CE9D05304D32984FB72D7B96A4EB1AB58A9EF8A81096B1A262FC725C60BE5368C782DFDEE004DE4A19BC5D92387F59FD7CD854F39F01D5DDD3C35FC65B7F7F0CFB032E2C4F34A30665FFFF0^^SIM_EN                        ^^ZH8002T88Q          
+54^^PM-0650-BV                    ^^TYPENUMBER                    ^^ZH8002T88Q          
+60^^CHARGER             ^^1269-4151                     ^^1         ^^654597830+1262-3531+1+2913W16506286               ^^ZH8002T88Q          
+60^^BATTERY             ^^1271-9084                     ^^1         ^^544763170+1256-4166+2+306130TWXORS13W27           ^^ZH8002T88Q          
+60^^MAINBOARD           ^^1271-2437                     ^^1         ^^PM-0650-BV                                        ^^ZH8002T88Q          
+60^^CAMERA_1            ^^ZH8002T88Q                    ^^1         ^^SOI,0d091405331a0268                              ^^ZH8002T88Q          
+60^^CAMERA_2            ^^ZH8002T88Q                    ^^1         ^^SEM,0d091114350d460c                              ^^ZH8002T88Q          
+60^^DISPLAY_1           ^^ZH8002T88Q                    ^^1         ^^8471B0                                            ^^ZH8002T88Q          
+60^^TOUCH_1             ^^ZH8002T88Q                    ^^1         ^^48                                                ^^ZH8002T88Q          
+04^^ZH8002T8VS          ^^20131203  ^^1278-0145                     ^^2         ^^1269-5420                     ^^15.0.A.1.31           ^^6         ^^1276-8142                     ^^2         ^^1272-4144                     ^^5          ^^1282-1413                     ^^1              ^^BGHB5M00517S        ^^          
+51^^44D4E0972FD1                  ^^IEEE                          ^^ZH8002T8VS          
+51^^44D4E0972FD2                  ^^MAC                           ^^ZH8002T8VS          
+51^^356605056370246               ^^IMEI3                         ^^ZH8002T8VS          
+52^^SECSHPDD_0:4D0369D71D138323FDB29FA1FD7B9946E6D21FBD9A822E9FA97F64F7EA35FF5AC8121E795D6D07BB68AD0CDCADCB85CE0FEB3636167EBAAEBA75297DDB9C35ABCCF4D8255E63A41FBDA2EBD9E528164140510B16E68472D843C70EC273F70F95B0F5AFB58EB5D821A3C447F55FC794C7FFC43531EA039A41877AAED27D2E99BD49437078900233061746DA6B1F176F9FD922CC75AC960F5D67F059EF9323CFC1D13CD8999C60A7DFDEB98E77A4E7E9731994DC663285A7111B3A89898B6125634DFEF30F30D14852BD11D138DE13ED03DE700A4975DFE7D2E912D8C27D765E55859B7C69A7B70122C6F7DF45F23AFA1B831C4C754E35B1A2B811860747622DFB^^SIM_EN                        ^^ZH8002T8VS          
+54^^PM-0650-BV                    ^^TYPENUMBER                    ^^ZH8002T8VS          
+60^^CHARGER             ^^1269-4151                     ^^1         ^^654597830+1262-3531+1+2913W16509266               ^^ZH8002T8VS          
+60^^BATTERY             ^^1271-9084                     ^^1         ^^544763170+1256-4166+2+323285TWXORS13W27           ^^ZH8002T8VS          
+60^^MAINBOARD           ^^1271-2437                     ^^1         ^^PM-0650-BV                                        ^^ZH8002T8VS          
+60^^CAMERA_1            ^^ZH8002T8VS                    ^^1         ^^SOI,0d09140630200267                              ^^ZH8002T8VS          
+60^^CAMERA_2            ^^ZH8002T8VS                    ^^1         ^^SEM,0d0911151010460c                              ^^ZH8002T8VS          
+60^^DISPLAY_1           ^^ZH8002T8VS                    ^^1         ^^8471B0                                            ^^ZH8002T8VS          
+60^^TOUCH_1             ^^ZH8002T8VS                    ^^1         ^^48                                                ^^ZH8002T8VS          
