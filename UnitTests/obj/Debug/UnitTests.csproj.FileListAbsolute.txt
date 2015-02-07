@@ -16,3 +16,12 @@ C:\Users\strategydev\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests
 C:\Users\strategydev\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\strategydev\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests\obj\Debug\UnitTests.dll
 C:\Users\strategydev\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Alexander Guan\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Alexander Guan\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Alexander Guan\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests\bin\Debug\HPDDHelper.dll
+C:\Users\Alexander Guan\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests\bin\Debug\HPDDInsertDeliverySupplierFileParser.exe
+C:\Users\Alexander Guan\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests\bin\Debug\HPDDHelper.pdb
+C:\Users\Alexander Guan\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests\bin\Debug\HPDDInsertDeliverySupplierFileParser.pdb
+C:\Users\Alexander Guan\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Alexander Guan\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Alexander Guan\Documents\GitHub\InsertDeliverySupplierFileParser\UnitTests\obj\Debug\UnitTests.pdb
