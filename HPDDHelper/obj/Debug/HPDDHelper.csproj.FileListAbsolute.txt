@@ -8,3 +8,8 @@ C:\Users\strategydev\Documents\GitHub\InsertDeliverySupplierFileParser\HPDDHelpe
 C:\Users\strategydev\Documents\GitHub\InsertDeliverySupplierFileParser\HPDDHelper\obj\Debug\HPDDHelper.csprojResolveAssemblyReference.cache
 C:\Users\strategydev\Documents\GitHub\InsertDeliverySupplierFileParser\HPDDHelper\obj\Debug\HPDDHelper.dll
 C:\Users\strategydev\Documents\GitHub\InsertDeliverySupplierFileParser\HPDDHelper\obj\Debug\HPDDHelper.pdb
+C:\Users\Alexander Guan\Documents\GitHub\InsertDeliverySupplierFileParser\HPDDHelper\bin\Debug\HPDDHelper.dll
+C:\Users\Alexander Guan\Documents\GitHub\InsertDeliverySupplierFileParser\HPDDHelper\bin\Debug\HPDDHelper.pdb
+C:\Users\Alexander Guan\Documents\GitHub\InsertDeliverySupplierFileParser\HPDDHelper\obj\Debug\HPDDHelper.csprojResolveAssemblyReference.cache
+C:\Users\Alexander Guan\Documents\GitHub\InsertDeliverySupplierFileParser\HPDDHelper\obj\Debug\HPDDHelper.dll
+C:\Users\Alexander Guan\Documents\GitHub\InsertDeliverySupplierFileParser\HPDDHelper\obj\Debug\HPDDHelper.pdb

@@ -33,6 +33,8 @@
             this.btn_Parse = new System.Windows.Forms.Button();
             this.tbx_Detail = new System.Windows.Forms.TextBox();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
+            this.tbx_Pattern = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // tv_Delivery
@@ -55,7 +57,7 @@
             this.tbx_FileIn.Font = new System.Drawing.Font("Tahoma", 12F);
             this.tbx_FileIn.Location = new System.Drawing.Point(45, 35);
             this.tbx_FileIn.Name = "tbx_FileIn";
-            this.tbx_FileIn.Size = new System.Drawing.Size(968, 36);
+            this.tbx_FileIn.Size = new System.Drawing.Size(604, 36);
             this.tbx_FileIn.TabIndex = 0;
             this.tbx_FileIn.DoubleClick += new System.EventHandler(this.tbx_FileIn_DoubleClick);
             // 
@@ -63,9 +65,9 @@
             // 
             this.btn_Parse.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btn_Parse.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_Parse.Location = new System.Drawing.Point(1045, 35);
+            this.btn_Parse.Location = new System.Drawing.Point(670, 35);
             this.btn_Parse.Name = "btn_Parse";
-            this.btn_Parse.Size = new System.Drawing.Size(106, 36);
+            this.btn_Parse.Size = new System.Drawing.Size(106, 31);
             this.btn_Parse.TabIndex = 1;
             this.btn_Parse.Text = "&Parse";
             this.btn_Parse.UseVisualStyleBackColor = true;
@@ -87,17 +89,40 @@
             // 
             this.openFileDialog1.Filter = "HPDD Supplier File|*.hpd;*.upd";
             // 
+            // tbx_Pattern
+            // 
+            this.tbx_Pattern.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.tbx_Pattern.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbx_Pattern.Location = new System.Drawing.Point(905, 37);
+            this.tbx_Pattern.Name = "tbx_Pattern";
+            this.tbx_Pattern.Size = new System.Drawing.Size(246, 32);
+            this.tbx_Pattern.TabIndex = 4;
+            // 
+            // label1
+            // 
+            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(817, 42);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(82, 24);
+            this.label1.TabIndex = 5;
+            this.label1.Text = "Pattern:";
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1195, 832);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.tbx_Pattern);
             this.Controls.Add(this.tbx_Detail);
             this.Controls.Add(this.btn_Parse);
             this.Controls.Add(this.tbx_FileIn);
             this.Controls.Add(this.tv_Delivery);
             this.Font = new System.Drawing.Font("Tahoma", 10F);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "HPDD INSERT_DELIVERY Supplier File Parser";
@@ -114,6 +139,8 @@
         private System.Windows.Forms.Button btn_Parse;
         private System.Windows.Forms.TextBox tbx_Detail;
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
+        private System.Windows.Forms.TextBox tbx_Pattern;
+        private System.Windows.Forms.Label label1;
     }
 }
 

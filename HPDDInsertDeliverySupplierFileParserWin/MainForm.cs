@@ -90,7 +90,7 @@ namespace HPDDInsertDeliverySupplierFileParserWin
             tv_Delivery.Nodes.Add(rootNode);
             
 
-            tv_Delivery.ExpandAll();
+            //tv_Delivery.ExpandAll();
 
             tv_Delivery.ShowRootLines = true;
 
@@ -110,7 +110,10 @@ namespace HPDDInsertDeliverySupplierFileParserWin
 
             delivery = text.ParseDelivery();
 
-            UpdateTreeViewByDelivery(delivery);
+            if (AppData.CurrentDelivery != null) AppData.CurrentDelivery = null;
+            AppData.CurrentDelivery = delivery;
+
+            UpdateTreeViewByDelivery(AppData.CurrentDelivery);
             
         }
 
